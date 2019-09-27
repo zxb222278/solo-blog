@@ -1,4 +1,4 @@
-<p align="center"><img alt="记录生活点滴，不忘初心" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="记录生活点滴，不忘初心" src="https://www.zouxb.com/favicon.ico"></p><h2 align="center">
 记录生活点滴，不忘初心
 </h2>
 
@@ -10,8 +10,8 @@
 
 ### 最新
 
-* [岁月如歌](https://www.zouxb.com/solo/articles/2019/09/18/1568808089967.html)
-* [世界，你好！](https://www.zouxb.com/solo/hello-solo)
+* [岁月如歌](https://www.zouxb.com/articles/2019/09/18/1568808089967.html)
+* [世界，你好！](https://www.zouxb.com/hello-solo)
 
 
 
