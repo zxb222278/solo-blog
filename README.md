@@ -10,8 +10,9 @@
 
 ### 最新
 
-* [岁月如歌](https://www.zouxb.com/solo/articles/2019/09/18/1568808089967.html)
-* [世界，你好！](https://www.zouxb.com/solo/hello-solo)
+* [我在 GitHub 上的开源项目](https://www.zouxb.com/my-github-repos)
+* [岁月如歌](https://www.zouxb.com/articles/2019/09/18/1568808089967.html)
+* [世界，你好！](https://www.zouxb.com/hello-solo)
 
 
 
